@@ -5,6 +5,9 @@ This repository contains the full source code for **Update Analyzer**, a small p
 ## Purpose
 Update Analyzer provides a minimal UI that surfaces update metadata normally hidden or scattered across multiple tools. It is not a package manager.
 
+## Why Publish the Source
+The binary release generated unexpected interest, so the source is published for transparency, auditing, and community adaptation. 
+
 ## License
 This project is released under the MIT License. See the `LICENSE` file for details.
 
